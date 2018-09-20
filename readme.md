@@ -6,7 +6,7 @@ A level editor for NSMBU and NSLU by AboodXD and Gota7, based on Reggie! Next by
 
 Discord: https://discord.gg/AvFEHpp  
 Original Repository: https://github.com/aboood40091/Miyamoto  
-MiyamotoNX Repository: https://github.com/aboood40091/Miyamoto  
+MiyamotoNX Repository: https://github.com/Anonmoosekaab/MiyamotoNX  
 
 ----------------------------------------------------------------
 
