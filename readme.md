@@ -1,11 +1,12 @@
-# Miyamoto!
-## The New Super Mario Bros. U / New Super Luigi U Editor
+# Miyamoto!NX
+## The New Super Mario Bros. U Deluxe / New Super Luigi U Deluxe Editor
 A level editor for NSMBU and NSLU by AboodXD and Gota7, based on Reggie! Next by RoadrunnerWMC, which is based on Reggie by Treeki, Tempus et al. Uses Python 3, PyQt5 and libyaz0.
 
 ----------------------------------------------------------------
 
 Discord: https://discord.gg/AvFEHpp  
-GitHub: https://github.com/aboood40091/Miyamoto  
+Original Repository: https://github.com/aboood40091/Miyamoto  
+MiyamotoNX Repository: https://github.com/aboood40091/Miyamoto  
 
 ----------------------------------------------------------------
 
@@ -13,6 +14,7 @@ GitHub: https://github.com/aboood40091/Miyamoto
 #### Reggie! & Reggie! Next
 * Treeki -- Creator of Reggie!
 * RoadrunnerWMC -- Creator of Reggie! Next
+* aboood40091 -- Creator of Miyamoto!
   
 #### Miyamoto
 * AboodXD -- Lead Coder, Spritedata, Graphics
@@ -42,17 +44,14 @@ GitHub: https://github.com/aboood40091/Miyamoto
 ----------------------------------------------------------------
 
 ### TODO
-- Get unknown entrance fields figured out
-- Get unknown area fields figured out
-- Sprite images / HD screenshots (a lot of them)
-- Improve Zones and Objects resizing
+- Figure out if the level format is similar enough that a fork will work or if starting from scratch is better
 
 ----------------------------------------------------------------
 
 ### How To Use
 First, download this repo (either by using ```git clone``` or ```git pull``` if you've already cloned it), or by downloading a release, or by just downloading this repo as a whole.
 
-Second, you need the filesystem for New Super Mario Bros. U. You can get it by dumping the game using ddd: https://gbatemp.net/threads/ddd-wiiu-title-dumper.418492/
+Second, you need the filesystem for New Super Mario Bros. U Deluxe. You can get it by dumping the game: INSERT LINK TO DUMPING TUTORIAL HERE
 
 Thirdly, Download and install the following:
  * Python 3.4 (or newer) - http://www.python.org
